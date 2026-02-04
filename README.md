@@ -1,4 +1,4 @@
-# Cartonifier-
+# Cartonifier
  🎨 Cartoonify Image using Python & OpenCV
 ## 📌 Description
 The **Cartoonify Image** project is a Python-based application that transforms ordinary images into cartoon-style visuals using computer vision techniques. The application provides a simple graphical user interface (GUI) where users can upload an image, preview the cartoonified version, and save the result.
